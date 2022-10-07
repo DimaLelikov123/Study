@@ -1,0 +1,13 @@
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/bin/Debug/netcoreapp3.1/HomeTask3.deps.json
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/bin/Debug/netcoreapp3.1/HomeTask3.runtimeconfig.json
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/bin/Debug/netcoreapp3.1/HomeTask3.runtimeconfig.dev.json
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/bin/Debug/netcoreapp3.1/HomeTask3.dll
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/bin/Debug/netcoreapp3.1/HomeTask3.pdb
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.csproj.AssemblyReference.cache
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.AssemblyInfoInputs.cache
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.AssemblyInfo.cs
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.csproj.CoreCompileInputs.cache
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.dll
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.pdb
+/Users/dmitrylelikov/projects/HomeTask3/HomeTask3/obj/Debug/netcoreapp3.1/HomeTask3.genruntimeconfig.cache
