@@ -1,0 +1,13 @@
+/Users/dmitrylelikov/projects/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.deps.json
+/Users/dmitrylelikov/projects/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.runtimeconfig.json
+/Users/dmitrylelikov/projects/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.runtimeconfig.dev.json
+/Users/dmitrylelikov/projects/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.dll
+/Users/dmitrylelikov/projects/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.pdb
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.csproj.AssemblyReference.cache
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.AssemblyInfoInputs.cache
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.AssemblyInfo.cs
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.csproj.CoreCompileInputs.cache
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.dll
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.pdb
+/Users/dmitrylelikov/projects/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.genruntimeconfig.cache
